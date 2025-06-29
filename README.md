@@ -1,7 +1,7 @@
 # ☕ Coffee Machine Virtual Interface  
 ### Gesture-Based Ordering System Using Computer Vision
 
-![Project Banner](https://via.placeholder.com/1000x300.png?text=Coffee+Machine+Virtual+Interface) <!-- Ganti dengan screenshot kamu -->
+([a](https://drive.google.com/file/d/1eDQZ6wYQgipdhqPiRJUjmWCHi7JNk0uq/view?usp=sharing))
 
 ---
 
