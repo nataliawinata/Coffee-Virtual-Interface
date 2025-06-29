@@ -48,18 +48,6 @@ This project introduces a **contactless virtual coffee ordering interface** usin
 
 ---
 
-## 🚀 Getting Started
-
-> Coming soon: Installation instructions, usage steps, and demo video.
-
----
-
-## 📷 Screenshots
-
-> Add your system interface screenshots here.
-
----
-
 ## 📄 License & Attribution
 
 This project is inspired by the tutorial from **Computer Vision Zone** on YouTube:  
@@ -67,19 +55,6 @@ This project is inspired by the tutorial from **Computer Vision Zone** on YouTub
 
 All rights and original concepts related to the video belong to the respective author.  
 This project is a **non-commercial educational adaptation** developed for learning and research purposes only.
-
-### 🔒 License
-
-This repository is shared under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** license.  
-You are free to:
-
-- ✅ Use and modify the code for **non-commercial** purposes  
-- ✅ Share your modifications with **proper credit**  
-- ❌ Not allowed to use for **commercial or profit-based** projects
-
-Read more: [creativecommons.org/licenses/by-nc/4.0](https://creativecommons.org/licenses/by-nc/4.0/)
-
----
 
 ## 🙌 Acknowledgements
 
