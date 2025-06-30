@@ -54,8 +54,6 @@ Make sure you have the following installed:
 - Python 3.7–3.10
 - A working webcam (internal or external)
 
----
-
 ### 💻 1. Clone the Repository
 git bash
 git clone https://github.com/username/repo-name.git
