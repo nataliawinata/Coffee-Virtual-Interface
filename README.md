@@ -46,6 +46,16 @@ This project introduces a **contactless virtual coffee ordering interface** usin
 
 ---
 
+## 🛠️ Installation
+
+### 🔰 Prerequisites
+
+Make sure you have the following installed:
+- Python 3.7–3.10
+- A working webcam (internal or external)
+
+---
+
 ## 📄 License & Attribution
 
 This project is inspired by the tutorial from **Computer Vision Zone** on YouTube:  
