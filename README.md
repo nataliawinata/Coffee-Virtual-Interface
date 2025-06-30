@@ -56,8 +56,8 @@ Make sure you have the following installed:
 
 ### 💻 1. Clone the Repository
 git bash
-git clone https://github.com/username/repo-name.git
-cd repo-name
+git clone https://github.com/nataliawinata/Coffee_Virtual_Interface.git
+cd Coffee_Virtual_Interface
 
 ### 🧪 2. Create & Activate Virtual Environment
 python -m venv venv
