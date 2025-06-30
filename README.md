@@ -48,27 +48,27 @@ This project introduces a **contactless virtual coffee ordering interface** usin
 
 ## 🛠️ Installation
 
-### 🔰 Prerequisites
+## 🔰 Prerequisites
 
 Make sure you have the following installed:
 - Python 3.7–3.10
 - A working webcam (internal or external)
 
-### 💻 1. Clone the Repository
+## 💻 1. Clone the Repository
 git bash
 git clone https://github.com/username/repo-name.git
 cd repo-name
 
-### 🧪 2. Create & Activate Virtual Environment
+## 🧪 2. Create & Activate Virtual Environment
 python -m venv venv
 venv\Scripts\activate
 
-### 📦 3. Install Dependencies
+## 📦 3. Install Dependencies
 pip install opencv-python
 pip install mediapipe
 pip install cvzone
 
-### ▶️ 4. Run the Application
+## ▶️ 4. Run the Application
 python main.py
 
 ---
