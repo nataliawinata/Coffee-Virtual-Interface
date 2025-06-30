@@ -1,8 +1,6 @@
 # ☕ Coffee Machine Virtual Interface  
 ### Gesture-Based Ordering System Using Computer Vision
 
-![Coffee Interface Screenshot](https://drive.google.com/file/d/1eDQZ6wYQgipdhqPiRJUjmWCHi7JNk0uq/view?usp=drive_link)
-
 ---
 
 ## 📌 Background
