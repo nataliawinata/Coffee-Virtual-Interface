@@ -56,6 +56,14 @@ Make sure you have the following installed:
 
 ---
 
+### 💻 1. Clone the Repository
+
+```bash
+git clone https://github.com/username/repo-name.git
+cd repo-name
+
+---
+
 ## 📄 License & Attribution
 
 This project is inspired by the tutorial from **Computer Vision Zone** on YouTube:  
